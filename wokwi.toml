@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build\tarefa1-aula-sincrona-10-02-conversor-a-d.hex'
+elf = 'build\tarefa1-aula-sincrona-10-02-conversor-a-d.elf'
